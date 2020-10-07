@@ -13,4 +13,4 @@ La tranparencia de acceso se da de la forma que el banco tiene disponible su por
 Se realizo el siguiente diagrama de red tratando de explicar como nos conectamos a la banca de bancomer.
 
 
-
+![alt text](https://github.com/mal4f4ma/notas_sist_dist/blob/main/tareas/img/diagrama.JPG)
